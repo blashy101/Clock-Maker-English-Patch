@@ -18,7 +18,7 @@ Then, we'll make a LayeredFS folder structure to have these newly patched files 
 
 Folder structure should look like this:
 
-SDROOT\atmosphere\contents\0100BA3018C10800\romfs\Data\ *4 patched files here*
+SDROOT\atmosphere\contents\0100BA3018C10000\romfs\Data\ *4 patched files here*
 
 Start up the game and enjoy!
 
