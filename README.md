@@ -1,5 +1,7 @@
 # Clock-Maker-English-Patch
 
+Official English Version: https://www.nintendo.com/us/store/products/clock-maker-my-clock-ver-digital-with-timer-switch/
+
 Hello! This is an English translation patch for Clock Maker.
 
 [Clock Maker : My Clock - ver. digital (with timer)] - Full Title
